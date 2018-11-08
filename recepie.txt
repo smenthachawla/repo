@@ -3,3 +3,5 @@ rajam rice
 kadi rice
 aloo
 chat
+chicken 
+korma
